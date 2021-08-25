@@ -78,7 +78,7 @@ function play(question,answer){
 
 }
 
-questionsList=[{question:'who is my fav cric player ',answer:'rohit'},{question:'who is my fav movie player ',answer:'ramcharan'},{question:'who is my fav comedian player ',answer:'raju'},{question:'who is my fav cartoon player ',answer:'tommy'}]
+questionsList=[{question:'who is my fav cric player ',answer:'rohit'},{question:'who is my fav movie player ',answer:'ramcharan'},{question:'who is my fav comedian player ',answer:'raju'},{question:'who is my fav cartoon player ',answer:'tommy'},{question:'who is my fav footbal player ',answer:'ronaldo'}]
 
 for(i=0;i<questionsList.length;i++){
   var currentQuestion=questionsList[i]
